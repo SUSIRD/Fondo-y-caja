@@ -1,0 +1,19 @@
+
+
+body { background-image: url(https://www.hogarmania.com/archivos/201106/lavanda-848x477x80xX.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+} 
+
+
+.box {
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    border-radius: 5px 10px 10px 20px;
+    box-shadow: 3px 3px 3px 15px grey;
+    background: linear-gradient(#33ECFF, #33CAFF, #33FFFF, #E3FF33, #FFFF33, #FFDA33, #FFAC33, #FF8D33, #FF6833, #FF3374, #FF33A2, #FF33C1, #DA33FF, #AC33FF);
+  }
+  
